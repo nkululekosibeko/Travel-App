@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight Booking</string>
+
+    <string name="nameApp">Book your Destination</string>
+    <string name="subtitleNameApp">Tour the World !!!</string>
+    <string name="versionApp">V 0.1</string>
+    <string name="titleLogin">Welcome</string>
+
+    <string name="channel_name">Booking App</string>
+    <string name="channel_desc">Application Travel the World.</string>
+</resources>
